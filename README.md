@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-Mi Primer Repositorio Modulo2 
+Este es un repositorio clonado desde GitHub a nuestro ordenador 
